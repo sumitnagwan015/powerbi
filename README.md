@@ -42,7 +42,7 @@ The dataset used in this dashboard includes:
 ---
 
 ## 📈 Dashboard Features
-
+https://github.com/sumitnagwan015/powerbi/blob/b24da7ade5f3bd69f846fca856551bb8198f9842/dark-gradient.jpg
 ### 1. Sales Overview
 
 * Displays total sales, profit, and order count
